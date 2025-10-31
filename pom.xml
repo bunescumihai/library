@@ -73,7 +73,7 @@
 				<groupId>org.flywaydb</groupId>
 				<artifactId>flyway-maven-plugin</artifactId>
 				<configuration>
-					<url>jdbc:postgresql://localhost:5432/sunt_student_db</url>
+					<url>jdbc:postgresql://localhost:5432/library_db</url>
 					<user>postgres</user>
 					<password>admin</password>
 					<schemas>public</schemas>
